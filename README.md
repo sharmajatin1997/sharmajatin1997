@@ -31,3 +31,10 @@
 ## 📈 GitHub Stats 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmajatin1997&show_icons=true" alt="sharmajatin1997" /></p>
+
+# 🏅 Displaying Achievements 🏅
+| Badge | Name | 
+| :-: | :-: | 
+| ![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)                 | Starstruck         |
+| ![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)                 | Quickdraw         | 
+
