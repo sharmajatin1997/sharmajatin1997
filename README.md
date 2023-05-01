@@ -32,10 +32,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmajatin1997&show_icons=true" alt="sharmajatin1997" /></p>
 
-# 🏅 Displaying Achievements 🏅
+# 🏅 My Achievements 🏅
 | Badge | Name | 
 | :-: | :-: | 
-| ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)                 | Pull Shark         |
-| ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)                 | YOLO         |
-| ![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)                 | Quickdraw         | 
+|<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="200px" height="200px">| Pull Shark        |
+|<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="200px" height="200px">| YOLO         |
+|<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="200px" height="200px">| Quickdraw         | 
 
