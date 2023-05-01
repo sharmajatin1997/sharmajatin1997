@@ -11,7 +11,7 @@
 - I Create [Country Code Picker](https://pub.dev/packages/ccp_dialog) Flutter Package For fast implement for showing a country code ,flag ,currency and currencyISO at any flutter project.<br>
 
   [![pub package](https://img.shields.io/pub/v/ccp_dialog.svg)](https://pub.dev/packages/ccp_dialog) 
-  [![likes](https://img.shields.io/pub/likes/ccp_dialog?logo=like)](https://pub.dev/packages/ccp_dialog/score) 
+  [![likes](https://img.shields.io/pub/likes/ccp_dialog?logo=dart)](https://pub.dev/packages/ccp_dialog/score) 
   [![popularity](https://img.shields.io/pub/popularity/ccp_dialog?logo=dart)](https://pub.dev/packages/ccp_dialog/score) 
   [![pub points](https://img.shields.io/pub/points/ccp_dialog?logo=dart)](https://pub.dev/packages/ccp_dialog/score)
   
