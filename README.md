@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Instagram](https://img.shields.io/badge/StackOverFlow-f48024?logo=stackoverflow&logoColor=white)](https://www.instagram.com/flutter_coding_/)
+[![StackOverFlow](https://img.shields.io/badge/StackOverFlow-f48024?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12035507/jatin-sharma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-sharma-297260157)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/jbhardwaj304)
 
