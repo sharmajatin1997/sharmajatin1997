@@ -35,6 +35,7 @@
 # 🏅 Displaying Achievements 🏅
 | Badge | Name | 
 | :-: | :-: | 
-| ![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)                 | Starstruck         |
+| ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)                 | Pull Shark         |
+| ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)                 | YOLO         |
 | ![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)                 | Quickdraw         | 
 
