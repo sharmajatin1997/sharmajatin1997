@@ -27,3 +27,7 @@
 [![Instagram](https://img.shields.io/badge/StackOverFlow-f48024?logo=stackoverflow&logoColor=white)](https://www.instagram.com/flutter_coding_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-sharma-297260157)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/jbhardwaj304)
+
+## 📈 GitHub Stats 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmajatin1997&show_icons=true" alt="sharmajatin1997" /></p>
