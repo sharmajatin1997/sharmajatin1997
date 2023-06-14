@@ -39,9 +39,9 @@
 
 ## 📈 GitHub Stats 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmajatin1997&layout=compact&hide=html" alt="sharmajatin1997" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmajatin1997&layout=compact&hide=html" alt="sharmajatin1997" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmajatin1997&show_icons=true" alt="sharmajatin1997" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmajatin1997&show_icons=true" alt="sharmajatin1997" /></p> -->
 
 # 🏅 My Achievements 🏅
 | Badge | Name | 
