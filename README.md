@@ -39,7 +39,12 @@
 
 ## 📈 GitHub Stats 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmajatin1997&layout=compact&hide=html" alt="sharmajatin1997" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmajatin1997&layout=donut)](https://github.com/sharmajatin1997/github-readme-stats)
+
+[![sharmajatin1997's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sharmajatin1997&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/sharmajatin1997/github-readme-stats#gh-dark-mode-only)
+[![sharmajatin1997's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sharmajatin1997&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/sharmajatin1997/github-readme-stats#gh-light-mode-only)
+
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmajatin1997&show_icons=true" alt="sharmajatin1997" /></p> -->
 
