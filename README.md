@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 <h3 align="center">Result oriented professional in Mobile Application Devlopment</h3>
 
 - 🔭 I’m currently working as **Flutter and Android Mobile App Development**.
