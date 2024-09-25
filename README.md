@@ -8,7 +8,7 @@
 - ⚡ Fun fact **Never Give Up and Always Ready to do Different or Unique**.
 
 <p align="left">
-  🦄 <strong>Skills:</strong> Flutter, Java, Kotlin, AWS , EC2 Instance
+  🦄 <strong>Skills:</strong> Flutter, Java, Kotlin, AWS , EC2 Instance, Sockets, Firebase 
 </p>
 
 <p align="left">
