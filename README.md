@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
-<h3 align="center">Result oriented professional in Mobile Application Devlopment</h3>
+<h3 align="Start">Result oriented professional in Mobile Application Devlopment</h3>
 
 - 🔭 I’m currently working as **Flutter and Android Mobile App Development**.
 - 🌱 I’m currently learning **Swift & Node**
 - 📫 How to reach me **https://sharmajatin1997.github.io/**.
 - ⚡ Fun fact **Never Give Up and Always Ready to do Different or Unique**.
+
+<p align="left">
+  🦄 <strong>Skills:</strong> Flutter, Java, Kotlin, AWS , EC2 Instance
+</p>
+
+<p align="left">
+  💼 <strong>Tools:</strong> Visual Studio Code, Android Studio, Xcode and Git.
+</p>  
 
 <h3 align="left">Created and Published Packages</h3>
 
