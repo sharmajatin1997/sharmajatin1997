@@ -49,7 +49,7 @@
 ## 📈 GitHub Stats 
 
 <div>
-  <a href="https://github.com/jonataslaw">
+  <a href="https://github.com/sharmajatin1997">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharmajatin1997&count_private=true&theme=cobalt&show_icons=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmajatin1997&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
