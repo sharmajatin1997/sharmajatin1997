@@ -38,6 +38,12 @@
   [![popularity](https://img.shields.io/pub/popularity/stylishbutton?logo=dart)](https://pub.dev/packages/stylishbutton/score) 
   [![pub points](https://img.shields.io/pub/points/stylishbutton?logo=dart)](https://pub.dev/packages/stylishbutton/score)
 
+<h3 align="left">Support:</h3>
+<a href="https://www.buymeacoffee.com/jatinsharma" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
+</a>
+
+
 <h3 align="left">Connect with me:</h3>
 
 [![StackOverFlow](https://img.shields.io/badge/StackOverFlow-f48024?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12035507/jatin-sharma)
