@@ -23,6 +23,12 @@
   [![likes](https://img.shields.io/pub/likes/dropdown_model_list?logo=dart)](https://pub.dev/packages/dropdown_model_list/score)  
   [![pub points](https://img.shields.io/pub/points/dropdown_model_list?logo=dart)](https://pub.dev/packages/dropdown_model_list/score)
 
+- I Create [Music Player](https://pub.dev/packages/flutter_music_player_ui) A customizable Flutter music player UI with elegant gradients, Lottie animations, shimmer loading, download support, volume control, repeat, and song queue.<br>
+
+  [![pub package](https://img.shields.io/pub/v/flutter_music_player_ui.svg)](https://pub.dev/packages/flutter_music_player_ui) 
+  [![likes](https://img.shields.io/pub/likes/flutter_music_player_ui?logo=dart)](https://pub.dev/packages/flutter_music_player_ui/score)  
+  [![pub points](https://img.shields.io/pub/points/flutter_music_player_ui?logo=dart)](https://pub.dev/packages/flutter_music_player_ui/score)
+
 - I Create [Battle Search Overlay](https://pub.dev/packages/battle_search_overlay) A Flutter package that helps you build beautiful animated Searching Opponent overlays for battle-style apps.<br>
 
   [![pub package](https://img.shields.io/pub/v/battle_search_overlay.svg)](https://pub.dev/packages/battle_search_overlay) 
