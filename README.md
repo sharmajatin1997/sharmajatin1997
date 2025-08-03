@@ -23,11 +23,11 @@
   [![likes](https://img.shields.io/pub/likes/dropdown_model_list?logo=dart)](https://pub.dev/packages/dropdown_model_list/score)  
   [![pub points](https://img.shields.io/pub/points/dropdown_model_list?logo=dart)](https://pub.dev/packages/dropdown_model_list/score)
 
-- I Create [Flutter VS Overlay](https://pub.dev/packages/flutter_vs_overlay) A Flutter package that helps you build beautiful animated Searching Opponent overlays for battle-style apps.<br>
+- I Create [Battle Search Overlay](https://pub.dev/packages/battle_search_overlay) A Flutter package that helps you build beautiful animated Searching Opponent overlays for battle-style apps.<br>
 
-  [![pub package](https://img.shields.io/pub/v/flutter_vs_overlay.svg)](https://pub.dev/packages/flutter_vs_overlay) 
-  [![likes](https://img.shields.io/pub/likes/flutter_vs_overlay?logo=dart)](https://pub.dev/packages/flutter_vs_overlay/score)  
-  [![pub points](https://img.shields.io/pub/points/flutter_vs_overlay?logo=dart)](https://pub.dev/packages/flutter_vs_overlay/score)
+  [![pub package](https://img.shields.io/pub/v/battle_search_overlay.svg)](https://pub.dev/packages/battle_search_overlay) 
+  [![likes](https://img.shields.io/pub/likes/battle_search_overlay?logo=dart)](https://pub.dev/packages/battle_search_overlay/score)  
+  [![pub points](https://img.shields.io/pub/points/battle_search_overlay?logo=dart)](https://pub.dev/packages/battle_search_overlay/score)
 
 - I Create [Country Code Picker](https://pub.dev/packages/ccp_dialog) Flutter Package For fast implement for showing a country code ,flag ,currency and currencyISO at any flutter project.<br>
 
